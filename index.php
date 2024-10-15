@@ -75,7 +75,7 @@ if (!empty($_SESSION['activa'])) {
                     <div class="mb-3">
                         <label for="correo" class="form-label">Correo electrónico</label>
                         <input type="email" class="form-control" id="correo" name="correo" aria-describedby="emailHelp" placeholder="Correo electronico">
-                        <div id="emailHelp" class="form-text">No compartiremos tu correo con nadie.</div>
+                        <div id="emailHelp" class="form-text">No compartircamboi</div>
                     </div>
                     <div class="mb-3">
                         <label for="contra" class="form-label" >Contraseña</label>
